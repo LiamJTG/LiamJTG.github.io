@@ -17,8 +17,8 @@ color: #000;
 }
  
 h1, h3 , .sidebar h3 {
-font-family: Jersey 10 !important;
-text-align: left;
+font-family: 'jersey 10' !important;
+text-align: center;
 color: #000;
 border-bottom: 1px solid #000;
 }
