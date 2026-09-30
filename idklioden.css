@@ -104,11 +104,11 @@ box-shadow: none;
 }
   
 .progress-bar {
-background: #83c9fe;
+background: #45818E;
 }
   
 .progress {
-background: #b8e8fc;
+background: #45818E;
 border: 1px solid #000;
 }
   
@@ -142,7 +142,7 @@ border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #8fd7fd;
+background:  #45818E;
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -188,18 +188,18 @@ color: #000;
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #83c9fe;
+background: #45818E;
 color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #19a9f9;
+background: #45818E;
 color: #000;
 }
  
 .inner-table .right {
-background: #b8e8fc;
+background: #45818E;
 border: 1px solid #000;
 border-left: none;
 }
