@@ -17,7 +17,7 @@ color: #000;
 }
  
 h1, h3 , .sidebar h3 {
-font-family: 'Luminari' !important;
+font-family: Luminari !important;
 text-align: center;
 color: #000;
 border-bottom: 1px solid #000;
@@ -69,7 +69,7 @@ box-shadow: none;
 }
   
 .navbar {
-background: #8fd7fd;
+background: #45818E;
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -80,7 +80,7 @@ color: #000;
   
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #8fd7fd;
+background: #45818E;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
